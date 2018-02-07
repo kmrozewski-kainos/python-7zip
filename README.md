@@ -1,4 +1,4 @@
-# PoC of unpacking 7zip files from python with p7zip library
+Unzips 7zip archives/files (also password encrypted) from python with p7zip library
 
 # Prerequisites
 * Python 2.7
